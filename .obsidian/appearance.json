@@ -1,0 +1,12 @@
+{
+  "textFontFamily": "SVN-Book Antiqua",
+  "interfaceFontFamily": "SVN-Book Antiqua",
+  "cssTheme": "Underwater",
+  "baseFontSizeAction": false,
+  "baseFontSize": 15,
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": false,
+  "enabledCssSnippets": [],
+  "theme": "system",
+  "accentColor": ""
+}

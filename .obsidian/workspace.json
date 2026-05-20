@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "1f537b8c587152b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba347313651bc109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc46a93c6a74ec20",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SQL injection/các bước thu thập thông tin về csdl.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "các bước thu thập thông tin về csdl"
+            }
+          },
+          {
+            "id": "288004096b38e09b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SQL injection/0 tổng hợp sql injection.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "0 tổng hợp sql injection"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c4d025fb0b10108",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87c1c4c18145d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a67487ee4c9143",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf5c90a926f97676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sql",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a1fbe2829098bfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "46d537e6b1c9f82a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3808726dc222e10a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a423e747bb8287a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL injection/các bước thu thập thông tin về csdl.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of các bước thu thập thông tin về csdl"
+            }
+          },
+          {
+            "id": "5678013efca81752",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SSRF/Blind SSRF là gì, kịch bản tấn công.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Blind SSRF là gì, kịch bản tấn công"
+            }
+          },
+          {
+            "id": "b011b4d6f8790a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSRF/Blind SSRF là gì, kịch bản tấn công.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blind SSRF là gì, kịch bản tấn công"
+            }
+          },
+          {
+            "id": "985d970d278cfbfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fc46a93c6a74ec20",
+  "lastOpenFiles": [
+    "SQL injection/0 tổng hợp sql injection.md",
+    "SQL injection/SQL cheet sheet.md",
+    "0-asset/Pasted image 20260520172944.png",
+    "SQL injection/các bước thu thập thông tin về csdl.md",
+    "0-asset/Pasted image 20260520172832.png",
+    "0-asset/Pasted image 20260520172738.png",
+    "SQL injection/cơ bản về sql injection.md",
+    "SQL injection/Minh_hoa_prepare_sql.md",
+    "SQL injection/0-map SQL injection.md",
+    "SQL injection/các kỹ thuật chèn sql.md",
+    "0-asset/Pasted Image 20260520171448_479.png",
+    "0-asset/Pasted Image 20260520170428_250.png",
+    "0-asset/Pasted Image 20260520165340_597.png",
+    "0-asset/Pasted Image 20260520165047_697.png",
+    "0-asset/Pasted Image 20260520163907_802.png",
+    "0-asset/Pasted Image 20260520162258_420.png",
+    "0-asset/Pasted Image 20260520162229_127.png",
+    "SQL injection/xác định số cột&kiểu dl.md",
+    "SQL injection/tấn công mật khẩu.md",
+    "SQL injection/work flow rút ra sqlinjection.md",
+    "SQL injection/union sql  injection.md",
+    "SQL injection/các bước thu thập t.md",
+    "SSRF/0-map ssrf.md",
+    "BASE.base",
+    "cyberjutsu/cyber jutsu.md",
+    "0-PASS.md",
+    "SSRF/white list bypass.md",
+    "SSRF/whitelist bypass.md",
+    "SSRF/blind ssrf.md",
+    "SSRF/Blind SSRF là gì, kịch bản tấn công.md",
+    "SSRF/Hướng tư duy khai thác SSRF.md",
+    "SSRF/các cách để bypass ssrf.md",
+    "SSRF/Blacklist filter bypass.md",
+    "SSRF/nháp.md",
+    "SSRF/Dấu hiệu phát hiện ssrf.md",
+    "server side vulnerabilities/path traversal.md",
+    "0-asset/cyberark.excalidrawlib",
+    "SQL injection",
+    "server side vulnerabilities/command injection",
+    "server side vulnerabilities/sql",
+    "SSRF",
+    "CSRF",
+    "server side vulnerabilities",
+    "cyberjutsu/0_writeup/blackbox_pentest.pdf",
+    "2.cyberjutsu/1-file upload",
+    "red/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

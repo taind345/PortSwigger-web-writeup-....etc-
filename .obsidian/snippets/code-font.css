@@ -1,0 +1,16 @@
+/* Inline code + code block trong Reading View */
+.markdown-rendered code,
+.markdown-rendered pre {
+  font-family: "JetBrains Mono", "Cascadia Code", "Consolas", monospace;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* Code block trong Live Preview / Source Mode */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock,
+.markdown-source-view.mod-cm6 .cm-hmd-codeblock,
+.markdown-source-view.mod-cm6 .cm-inline-code {
+  font-family: "JetBrains Mono", "Cascadia Code", "Consolas", monospace;
+  font-size: 14px;
+  line-height: 1.6;
+}
